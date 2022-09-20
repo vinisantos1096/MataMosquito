@@ -6,7 +6,7 @@ Jogo para matar mosquito que aparecem na Tela! Com 3 dificuldades diferentes ❗
 
 ## 📸 Screenshots 📸
 
-![App Screenshot](mata_mosquito/jogoCompleto/imagens/readme.png)
+![App Screenshot](imagens/readme.png)
 
 ## Tecnologias Utilizadas 📚
 
